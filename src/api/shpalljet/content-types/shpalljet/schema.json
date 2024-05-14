@@ -1,0 +1,112 @@
+{
+  "kind": "collectionType",
+  "collectionName": "shpalljets",
+  "info": {
+    "singularName": "shpalljet",
+    "pluralName": "shpalljets",
+    "displayName": "Shpalljet",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulli": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "dataPublikimit": {
+      "type": "date"
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "videos",
+        "audios",
+        "files"
+      ]
+    },
+    "kontrata": {
+      "type": "string"
+    },
+    "orari": {
+      "type": "string"
+    },
+    "paga": {
+      "type": "string"
+    },
+    "vendi": {
+      "type": "string"
+    },
+    "diploma": {
+      "type": "string"
+    },
+    "pervojaPunes": {
+      "type": "string"
+    },
+    "patentShoferi": {
+      "type": "string"
+    },
+    "kushtetKualifikimit": {
+      "type": "text"
+    },
+    "aftesiOrganizative": {
+      "type": "text"
+    },
+    "detyra1": {
+      "type": "text"
+    },
+    "detyra2": {
+      "type": "text"
+    },
+    "detyra3": {
+      "type": "text"
+    },
+    "detyra4": {
+      "type": "text"
+    },
+    "detyra5": {
+      "type": "text"
+    },
+    "detyra6": {
+      "type": "text"
+    },
+    "detyra7": {
+      "type": "text"
+    },
+    "detyra8": {
+      "type": "text"
+    },
+    "aplikacioniPDF": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "files"
+      ]
+    },
+    "aplikacioniPdfSrb": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "files"
+      ]
+    },
+    "proceduraAplikimit": {
+      "type": "text"
+    },
+    "datatAplikimit": {
+      "type": "text"
+    }
+  }
+}

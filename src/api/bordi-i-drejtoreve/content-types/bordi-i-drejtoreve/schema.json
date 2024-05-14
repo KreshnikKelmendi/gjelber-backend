@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bordi_i_drejtoreves",
+  "info": {
+    "singularName": "bordi-i-drejtoreve",
+    "pluralName": "bordi-i-drejtoreves",
+    "displayName": "Bordi i Drejtorëve"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "emriMbiemri": {
+      "type": "string"
+    }
+  }
+}

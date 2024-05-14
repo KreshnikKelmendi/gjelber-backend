@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "komisioni_komunal_i_aksionareves",
+  "info": {
+    "singularName": "komisioni-komunal-i-aksionareve",
+    "pluralName": "komisioni-komunal-i-aksionareves",
+    "displayName": "Komisioni Komunal i Aksionarëve"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "emriMbiemri": {
+      "type": "string"
+    }
+  }
+}
